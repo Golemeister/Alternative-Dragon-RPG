@@ -1,0 +1,9 @@
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.UserControl1.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb

@@ -1,0 +1,66 @@
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2008\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\ResGen.read.1.tlog
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\ResGen.write.1.tlog
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\ResGen.read.1.tlog
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\George_Quest_v3.1\WindowsFormsApplication3\obj\Debug\ResGen.write.1.tlog
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Avatar\Documents\Visual Studio 2010\Projects\George_Quest_v3.2\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl1.resources
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl1.resources
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+G:\George_Quest_v3.2.1\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Resource1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Resource1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.UserControl1.resources
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\ResGen.read.1.tlog
+C:\Users\kurs\Documents\Visual Studio 2010\Projects\Alternative Gameplay Version E3.3\WindowsFormsApplication3\obj\Debug\ResGen.write.1.tlog

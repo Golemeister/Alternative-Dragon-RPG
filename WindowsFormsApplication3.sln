@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication3", "WindowsFormsApplication3\WindowsFormsApplication3.csproj", "{FBCC2E21-9A0B-49CB-9AFD-A00F532389FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBCC2E21-9A0B-49CB-9AFD-A00F532389FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBCC2E21-9A0B-49CB-9AFD-A00F532389FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBCC2E21-9A0B-49CB-9AFD-A00F532389FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBCC2E21-9A0B-49CB-9AFD-A00F532389FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
